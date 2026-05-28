@@ -1,0 +1,13 @@
+﻿node_modules/
+.env
+.env.local
+.env.production
+server/uploads/
+client/dist/
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
